@@ -15,6 +15,7 @@ public static void main(String[] args) {
 	m.greensOmr("Courses offered");
 	m.greensOmr(45456l);
 	m.greensOmr('A');
+	System.out.println("fetch");
 }
 
 
